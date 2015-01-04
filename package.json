@@ -1,0 +1,41 @@
+{
+  "name": "tidesjs",
+  "title": "tidesjs",
+  "description": "JavaScript library for computing tidal predictions",
+  "version": "0.1.0",
+  "main": "dist/tides.js",
+  "homepage": "https://github.com/jdubowy/tidesjs",
+  "author": {
+    "name": "Joel Dubowy",
+    "email": "jdubowy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdubowy/tidesjs.git"
+  },
+  "keywords": [
+    "tidesjs",
+    "javascript",
+    "browser",
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/jdubowy/tidesjs/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jdubowy/tidesjs/blob/master/LICENSE.txt"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+   "grunt": "~0.4.5",
+    "grunt-cli": "0.1.13",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "scripts": {
+  }
+}
